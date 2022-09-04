@@ -1,6 +1,5 @@
 - 👋 Hi, my name is Elvir Vlahovljak
-- 👀 I’m interested in Backend Development, System Design and DevOps
-- 🌱 I’m currently learning everything I'm interested in + ASP .NET Core Web API and MVC, Angular, Docker, SignalR, Blazor
+- 👀 I’m primarily interested in ASP .NET Backend Development and System design
 - 📫 [GMail](elvirvlahovljak@gmail.com)
 - 📫 [LinkedIn](https://www.linkedin.com/in/elvir-vlahovljak-9505a3216/)
 
