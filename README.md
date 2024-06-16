@@ -1,5 +1,6 @@
 - 👋 Hi, my name is Elvir Vlahovljak
-- 👀 I’m primarily interested in ASP .NET Backend Development and System design
+- 🌱 Expanding my software development knowledge since 2016
+- 👀 Primarily interested in backend development and system design
 - 📫 [GMail](elvirvlahovljak@gmail.com)
 - 📫 [LinkedIn](https://www.linkedin.com/in/elvir-vlahovljak-9505a3216/)
 
